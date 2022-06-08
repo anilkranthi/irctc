@@ -1,0 +1,6 @@
+this is for demo and my practice what is the difference between tracked files and untraced files?
+ 
+ what ever the files we are creating that add,commit,push to the git are called tracked files
+ what ever the files we created but not added to git are called untracked files
+ git is always tracking the changes
+
